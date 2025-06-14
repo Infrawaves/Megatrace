@@ -1,0 +1,9 @@
+isSP: false
+layers: 32
+ppSize: 4
+tpSize: 2
+GBS: 512
+headers: 32
+numRanks: 512
+iterations: 50
+slowThreshold: 1

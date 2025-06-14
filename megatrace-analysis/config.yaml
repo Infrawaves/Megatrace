@@ -1,0 +1,8 @@
+isSP: false
+layers: 32
+ppSize: 4
+tpSize: 2
+GBS: 64
+headers: 32
+numRanks: 64
+iterations: 50
