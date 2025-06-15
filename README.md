@@ -7,7 +7,7 @@ Megatrace is a lightweight system tool for training performance analysis and iss
 
 ### Build
 ```shell
-
+make -j64 src.build NVCC_GENCODE="-gencode=arch=compute_90,code=sm_90"
 ```
 
 ### Environment
