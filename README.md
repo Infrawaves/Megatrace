@@ -48,7 +48,9 @@ https://dreampuf.github.io/GraphvizOnline
 
 ### Example
 
+![hang example](example/images/hang-example.jpg)
 
+![slowdown example](example/images/slowdown-example.jpg)
 
  
 
